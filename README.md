@@ -1,10 +1,8 @@
 📚 August/2021 - let's do it! 📚
 
-- 👋 Hi, I’m @victorluiz-bas  
-- 👀 I’m interested in ... front end? ... too soon to ask, i'll edit this file later. 😅
+- 👋 Hi, I’m Victor Bezerra ( @victorluiz-bas ) 
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on ... wait...
-- 📫 How to reach me ...
+- 📫 You can reach me at: victorluiz.bas@gmail.com
 
 <!---
 victorluiz-bas/victorluiz-bas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
